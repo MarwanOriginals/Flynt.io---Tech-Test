@@ -1,0 +1,17 @@
+{
+    "link": "Identifiant unique du shop",
+    "timestamp": "date de la visite sur la page",
+    "page": "zone géographique",
+    "pagetype": "type de page (homepage == page d'acceuil d'un quartier)",
+    "category": "encart spécifique (Carrousel) si non other",
+    "rank": "classement sur la category",
+    "counttotal": "nombre de shop visible dans la category",
+    "deliverytimemin": "temps de livraison min.",
+    "deliverytimemax": "temps de livraison max.",
+    "deliveryfee": "frais de livraison",
+    "offer": "détail de l'offre le cas échéant",
+    "availability": "le shop accepte des commandes",
+    "year": "année",
+    "month": "mois",
+    "day": "jour"
+}
